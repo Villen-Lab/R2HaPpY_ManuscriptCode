@@ -1,6 +1,6 @@
 ---
 
-# Phosphotyrosine Proteomics Using a Scalable SH2 Superbinder Enrichment Strategy
+# Scalable phosphotyrosine enrichment with SH2 superbinder enables deep profiling of EGF responses
 
 [![R Version](https://img.shields.io/badge/R-4.4.2-blue.svg)]()
 [![Bioconductor](https://img.shields.io/badge/Bioconductor-3.22-green.svg)]()
@@ -9,8 +9,8 @@
 
 This repository contains all analysis scripts, figure-generation pipelines, and processed datasets supporting:
 
-**“Phosphotyrosine Proteomics Using a Scalable SH2 Superbinder Enrichment Strategy.”**
-**[bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2025.05.14.653984v1)**
+**“Scalable phosphotyrosine enrichment with SH2 superbinder enables deep profiling of EGF responses.”**
+**[EMBO Journal Article]([https://link.springer.com/article/10.1038/s44318-026-00843-8#Abs1])**
 
 <img src="./README_VisualAbstract.png" width="650">
 
@@ -133,6 +133,7 @@ Each archive contains Comet outputs, AScore assignments, peptide redundancy tabl
 
 Processed datasets required by figure scripts are included under **modified_data/**.
 
+The mass spectrometry proteomics data have been deposited to the ProteomeXchange Consortium via the PRIDE partner repository with the dataset identifier PXD062515 (https://www.ebi.ac.uk/pride/archive/projects/PXD062515) 
 ---
 
 # Contact
