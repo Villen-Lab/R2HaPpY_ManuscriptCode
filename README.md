@@ -10,7 +10,7 @@
 This repository contains all analysis scripts, figure-generation pipelines, and processed datasets supporting:
 
 **“Scalable phosphotyrosine enrichment with SH2 superbinder enables deep profiling of EGF responses.”**
-**[EMBO Journal Article]([https://link.springer.com/article/10.1038/s44318-026-00843-8#Abs1])**
+**[EMBO Journal Article][https://link.springer.com/article/10.1038/s44318-026-00843-8#Abs1]**
 
 <img src="./README_VisualAbstract.png" width="650">
 
